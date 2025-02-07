@@ -37,6 +37,7 @@ public class Principal {
 
         for (int i = 0; i < dados.totalTemporadas(); i++) {
             //List<DadosTemporada> episodiosTemporada = temporadas.get(i).episodios();
+            
         }
     }
 }
